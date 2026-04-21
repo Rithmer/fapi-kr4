@@ -1,0 +1,6 @@
+fastapi
+pydantic[email]
+pytest
+pytest-asyncio
+httpx
+Faker
